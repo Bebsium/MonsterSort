@@ -1,7 +1,7 @@
 #include "header.h"
 
 int main() {
-	cout << "5B-10-›I‰FË" << endl;
+	cout << "5B-10-å§œå®‡ç¥¥" << endl;
 
 	MonsterData monster = MonsterData("mns_data.csv");
 	monster.Print();
